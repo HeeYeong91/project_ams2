@@ -31,7 +31,7 @@ Arguments메뉴에 VM arguments 칸에 -Dfile.encoding=MS949 를 작성하고 Ru
 * 입출금통장 선택 시 예금주명, 비밀번호, 입금금액을 사용자로부터 입력 받은 후 신규등록을 진행한다.
 * 마이너스통장 선택 시 예금주명, 비밀번호, 대출금액을 사용자로부터 입력 받은 후 신규등록을 진행한다. <br />
 
-![1 계좌생성]() <br />
+![1 계좌생성](https://github.com/HeeYeong91/project_ams2/assets/139057065/d616640c-e751-42c3-a6f2-77dc204d8c98) <br />
 [목차](#page_facing_up-목차)
 
 ## 2. 계좌목록 조회
@@ -40,7 +40,7 @@ Arguments메뉴에 VM arguments 칸에 -Dfile.encoding=MS949 를 작성하고 Ru
 * 비밀번호는 '*'로 보여준다.
 * 마이너스 통장은 대출금 표시 후 잔액에는 마이너스 금액을 보여준다. <br />
 
-![2 계좌목록]() <br />
+![2 계좌목록조회](https://github.com/HeeYeong91/project_ams2/assets/139057065/60199a18-68a3-4c41-bbef-aee5788e7af7) <br />
 [목차](#page_facing_up-목차)
 
 ## 3. 계좌번호로 계좌 조회
@@ -48,7 +48,7 @@ Arguments메뉴에 VM arguments 칸에 -Dfile.encoding=MS949 를 작성하고 Ru
 * 계좌번호가 존재하면 '0번 계좌를 찾았습니다.' 팝업창이 나타난다.
 * 계좌번호가 존재하지 않을 때는 '0번 계좌는 존재하지 않습니다.' 팝업창이 나타나고, 전체계좌목록을 보여준다. <br />
 
-![3 입금]() <br />
+![3 계좌전호로계좌조회](https://github.com/HeeYeong91/project_ams2/assets/139057065/3e0605ea-a993-4544-91df-0b316b44332a) <br />
 [목차](#page_facing_up-목차)
 
 ## 4. 예금주명으로 계좌 조회
@@ -56,7 +56,7 @@ Arguments메뉴에 VM arguments 칸에 -Dfile.encoding=MS949 를 작성하고 Ru
 * 해당 예금주명을 가진 계좌가 1개 이상이면 '000님 계좌를 n개 찾았습니다.' 팝업창과 함께 계좌를 화면에 보여준다.
 * 해당 예금주명을 가진 계좌가 없을 때는 '000님 계좌를 0개 찾았습니다.' 팝업창이 나타난다. <br />
 
-![4 출금]() <br />
+![4 예금주명으로계좌조회](https://github.com/HeeYeong91/project_ams2/assets/139057065/db22bffa-adaa-48f7-b7a2-985d0600063c) <br />
 [목차](#page_facing_up-목차)
 
 ## 5. 계좌번호로 계좌 삭제
@@ -64,5 +64,5 @@ Arguments메뉴에 VM arguments 칸에 -Dfile.encoding=MS949 를 작성하고 Ru
 * 해당 계좌번호인 계좌가 존재하면 '0번 계좌가 삭제 되었습니다.' 팝업창이 나타나고 계좌가 삭제된 뒤에 전체계좌목록을 보여준다.
 * 해당 계좌번호인 계좌가 존재하지 않으면 '0번 계좌가 존재하지 않습니다.' 팝업창이 나타난다. <br />
 
-![5 종료]() <br />
+![5 계좌번호로계좌삭제](https://github.com/HeeYeong91/project_ams2/assets/139057065/9d8ffa05-d9c7-4311-a6cf-70bc9f32f7bd) <br />
 [목차](#page_facing_up-목차)
